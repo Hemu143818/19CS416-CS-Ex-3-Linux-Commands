@@ -1,3 +1,6 @@
+## name :- k hemanth yadav
+## reg :- 212224100033
+
 # 19CS416-CS-Ex-3-Linux-Commands
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
